@@ -16,7 +16,8 @@ ARG RUNTIME_PACKAGES="\
     gnupg \
     git \
     curl \
-    nano"
+    nano \
+    pigz"
     
 ARG PIP3_PACKAGES="\
     awscli \
