@@ -18,7 +18,8 @@ ARG RUNTIME_PACKAGES="\
     curl \
     nano \
     pigz \
-    tar"
+    tar \
+    zstd"
     
 ARG PIP3_PACKAGES="\
     awscli \
